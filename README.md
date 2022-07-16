@@ -1,2 +1,1 @@
-# password-generator-and-vault
-password-generator-and-vault
+# python_password_manager

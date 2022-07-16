@@ -1,2 +1,2 @@
-# password_generator-and-vault
-password_generator-and-vault
+# password-generator-and-vault
+password-generator-and-vault
